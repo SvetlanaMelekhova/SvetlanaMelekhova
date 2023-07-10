@@ -27,6 +27,8 @@ Here are some ideas to get you started:
     <img width="15%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" />
+    <img width="15%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" />
+    <img width="15%" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg" />
 </p>
 
 ## 📫 Contact me
